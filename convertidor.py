@@ -6,3 +6,4 @@ enter2 = int(num2)
 
 print("El primer nombre enter és:", enter1)
 print("El segon nombre enter és:", enter2)
+ 
