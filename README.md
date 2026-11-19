@@ -29,3 +29,21 @@ Exercici 2:Programa que llegeix una seqüència de numeros ( de 0 a 10) i parara
 
 Exercici 3:Programa que llegeix 10 nombres,quan acaba diu si hi habia algun numero negatiu o no.
 # Training 5-Funcions
+Preguntes:
+-Quants paràmejtres té la funció?
+*Té 2 paràmetres: el preu de les peces i el cost de la mà d'obra*
+-Quin valor retorna?
+*Retorna el cost total de la reparació*
+-Què passaria si eliminéssim el return?
+*Si eliminem return, la funció no retornaria cap resultat*
+Quina diferència hi ha entre print() i return?
+*print() mostra informació per pantalla, mentre que return retorna un valor d'una funció per poder utilitzar-lo en altres parts del programa.*
+Per què és millor dividir un programa en 
+funcions?
+*Perquè el codi queda més ordenat, és més fàcil d'entendre, corregir i mantenir.*
+Què és un paràmetre?
+*És una variable que s'indica quan definim una funció i que serveix per rebre dades.*
+Què és una variable local?
+*És una variable que només existeix dins de la funció on s'ha creat.*
+Quins avantatges té reutilitzar una funció?
+*Evita repetir codi, estalvia temps i facilita la modificació i el manteniment del programa.*
